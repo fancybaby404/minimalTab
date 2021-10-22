@@ -100,6 +100,15 @@ h6 {
     box-shadow: none;
 }
 
+#input-link {
+    background-color: rgba(0, 0, 0, 0);
+    color: white!important;
+}
+
+.submit-link {
+    background-color: rgba(0, 0, 0, 0);
+}
+
 @media (max-width: 767px) {
     /* phone view */
     /* .todo-body {
