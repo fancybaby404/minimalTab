@@ -221,13 +221,21 @@ jQuery(() => {
         //     `)
 
 
+        // $('ul').prepend(`
+        // <li class="li-style center"> 
+        //     <div class="div-li-container">
+        //             <div class="div-li-style">
+        //             <button class="rmv btn" type="submit"><img class="white-img" src="/images/close.svg"></button>
+        //                 <span "span-class" contenteditable>${todoText}</span>
+        //             </div>
+        //     </div>
+        // </li> 
+        // `)
         $('ul').prepend(`
-        <li class="li-style center"> 
+        <li class="center"> 
             <div class="div-li-container">
-                    <div class="div-li-style">
-                    <button class="rmv btn" type="submit"><img class="white-img" src="/images/close.svg"></button>
-                        <span "span-class" contenteditable>${todoText}</span>
-                    </div>
+                <button class="rmv btn" type="submit"><img class="white-img" src="/images/close.svg"></button>
+                <span contenteditable>${todoText}</span>
             </div>
         </li> 
         `)
