@@ -1,8 +1,8 @@
 # ☁️minimalTab
 A minimalist ToDo list when opening a new tab. Supports custom background such as gifs, png and etc. This is done by providing a link to the image/gif or the file itself.
 
-<img align="center" src="https://user-images.githubusercontent.com/53817791/138503018-3b410221-d969-477f-a885-0b2dc52edd27.png" alt="Tab Image">
-<img align="center" src="https://user-images.githubusercontent.com/53817791/138499343-f3343f00-cb11-426a-922f-ff61cf5a10fd.png" alt="Settings Image">
+<img align="center" src="https://user-images.githubusercontent.com/53817791/138581155-eba67ed9-0bdf-4dcd-b30f-90b1cbd9f8b1.png" alt="Tab Image">
+<img align="center" src="https://user-images.githubusercontent.com/53817791/138581166-70ab2640-d393-41f5-b15d-c4de1567008e.png" alt="Settings Image">
 
 ## Installation
 To install, clone the repo or simply download it as a zip file. Once downloaded, head over to the extensions page for your browser. Click on "Load unpacked" and select the folder downloaded.
